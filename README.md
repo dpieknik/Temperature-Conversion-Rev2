@@ -12,6 +12,7 @@ to be converted. Error messages are included for improper input. HTML and CSS fi
 - <b>Visual Studio Code</b> 
 - <b>JavaScript</b>
 - <b>HTML</b>
+- <b>CSS</b>
 
 <h2>Environments Used </h2>
 
